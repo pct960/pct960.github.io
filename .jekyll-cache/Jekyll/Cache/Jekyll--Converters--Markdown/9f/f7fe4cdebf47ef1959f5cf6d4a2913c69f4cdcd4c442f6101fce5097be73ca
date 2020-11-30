@@ -1,20 +1,16 @@
----
-layout: default
----
+I"k<h2 id="about-me">About Me</h2>
 
-## About Me
+<p><img class="profile-picture" src="photo.jpg" /></p>
 
-<img class="profile-picture" src="photo.jpg">
+<p>Hello there!</p>
 
-Hello there! 
+<p>I’m Poorna. (see <a href="misc">this</a> if you’re curious about my name) I am a Senior Software Engineer at AI &amp; Robotics Technology Park (<a href="https://artpark.in">ARTPARK</a>) - a joint venture by the Indian Institute of Science and AiFoundry. Previously, I was a Technical Associate at the Robert Bosch Centre for Cyber-Physical Systems, Indian Institute of Science, Bangalore.</p>
 
-I'm Poorna. (see [this](misc) if you're curious about my name) I am a Senior Software Engineer at AI & Robotics Technology Park ([ARTPARK](https://artpark.in)) - a joint venture by the Indian Institute of Science and AiFoundry. Previously, I was a Technical Associate at the Robert Bosch Centre for Cyber-Physical Systems, Indian Institute of Science, Bangalore. 
+<h2 id="interests">Interests</h2>
 
-## Interests
+<p>I work primarily on backend systems, databases and DevOps. My research interests are in understanding how to build large systems with ease. Currently I am working on building a large-scale privacy preserving data exchange and analytics platform with folks from UIDAI and Microsoft Research.</p>
 
-I work primarily on backend systems, databases and DevOps. My research interests are in understanding how to build large systems with ease. Currently I am working on building a large-scale privacy preserving data exchange and analytics platform with folks from UIDAI and Microsoft Research.
-
-## Professional Experience
+<h2 id="professional-experience">Professional Experience</h2>
 
 <table>
   <tbody>
@@ -63,36 +59,45 @@ I work primarily on backend systems, databases and DevOps. My research interests
 * Intrusion Detection and Prevention System for Smart-city Middlewares15: It was a security layer built for smart-city middlewares to prevent attacks by malicious users. It was capable of protecting against DoS attacks and some kinds of exploits by observing patterns from log files and using blockchain techniques
 
 -->
-## Some achievements
+<h2 id="some-achievements">Some achievements</h2>
 
-* Invited for an online paid interview by researchers from the Software Analysis and Testing (SALT) lab of the Electrical and Computer Engineering Department, University of British Columbia, Vancouver to talk about bugs and failures in IoT systems.
+<ul>
+  <li>
+    <p>Invited for an online paid interview by researchers from the Software Analysis and Testing (SALT) lab of the Electrical and Computer Engineering Department, University of British Columbia, Vancouver to talk about bugs and failures in IoT systems.</p>
+  </li>
+  <li>
+    <p>Won a paid trip to RabbitMQ Summit 2019 in London - sponsored by <a href="https://cloudamqp.com">CloudAMQP</a> and the Indian Institute of Science. This was featured in the Cyber-Physical Systems website of IISc (<a href="https://cps.iisc.ac.in/rabbitmq">link</a>)</p>
+  </li>
+  <li>
+    <p>Secured a national rank of 567 among tens of thousands of participants in a competitive coding contest conducted by Tata Consultancy Services (TCS)</p>
+  </li>
+  <li>
+    <p>Graduated with a gold medal in my undergrad and won an “Outstanding Academic Achiever” award</p>
+  </li>
+</ul>
 
-* Won a paid trip to RabbitMQ Summit 2019 in London - sponsored by [CloudAMQP](https://cloudamqp.com) and the Indian Institute of Science. This was featured in the Cyber-Physical Systems website of IISc ([link](https://cps.iisc.ac.in/rabbitmq))
+<h2 id="conference-presentations">Conference Presentations</h2>
 
-* Secured a national rank of 567 among tens of thousands of participants in a competitive coding contest conducted by Tata Consultancy Services (TCS)
+<ol>
+  <li>N. Karanjkar, P. C. Tejasvi, and B. Amrutur. “A SimPy-based Simulation Testbed for Smart-city IoT Applications”. ACM/IEEE Conference on Internet of Things Design and Implementation. Montreal, Canada, 2019. (<a href="https://dl.acm.org/doi/abs/10.1145/3302505.3312591">acm</a>, <a href="https://aml.ece.iisc.ac.in/images/b/bb/Iotdi19posters-paper56.pdf">paper</a>, <a href="https://github.com/rbccps-iisc/atscale_middleware_testing">code</a>)</li>
+</ol>
 
-* Graduated with a gold medal in my undergrad and won an "Outstanding Academic Achiever" award
+<h2 id="manuscripts-in-progress">Manuscripts in progress</h2>
 
-## Conference Presentations
+<ol>
+  <li>P. C. Tejasvi, V. Rajaraman, A. B. Puthuparambil, A. Pankaj, and B. Amrutur, “Vermillion: A High-Performance Scalable IoT Middleware for Smart Cities,” arXiv preprint arXiv:2003.08361, 2020 (<a href="https://arxiv.org/abs/2003.08361">arxiv</a>, <a href="https://github.com/datasetu/vermillion/releases/tag/v0.2.0">code</a>)</li>
+</ol>
 
-1. N. Karanjkar, P. C. Tejasvi, and B. Amrutur. “A SimPy-based Simulation Testbed for Smart-city IoT Applications”. ACM/IEEE Conference on Internet of Things Design and Implementation. Montreal, Canada, 2019. ([acm](https://dl.acm.org/doi/abs/10.1145/3302505.3312591), [paper](https://aml.ece.iisc.ac.in/images/b/bb/Iotdi19posters-paper56.pdf), [code](https://github.com/rbccps-iisc/atscale_middleware_testing))
+<hr />
 
-## Manuscripts in progress
+<h3 id="credits">Credits</h3>
 
-1. P. C. Tejasvi, V. Rajaraman, A. B. Puthuparambil, A. Pankaj, and B. Amrutur, “Vermillion: A High-Performance Scalable IoT Middleware for Smart Cities,” arXiv preprint arXiv:2003.08361, 2020 ([arxiv](https://arxiv.org/abs/2003.08361), [code](https://github.com/datasetu/vermillion/releases/tag/v0.2.0))
+<ul>
+  <li>Ankit Sultana for the <a href="https://github.com/ankitsultana/researcher">website template</a></li>
+  <li><a href="https://amanagarwal.io/">Aman Agarwal</a> for the contact template</li>
+  <li><a href="https://flaticon.com">Flaticon</a> for some icons</li>
+</ul>
 
-
----
-
-Do take a look at my [linkedin](https://linkedin.com/in/pct) and [CV](cv.pdf) for additional information
-
----
-
-### Credits
-
-* Ankit Sultana for the [website template](https://github.com/ankitsultana/researcher)
-* [Aman Agarwal](https://amanagarwal.io/) for the contact template
-* [Flaticon](https://flaticon.com) for some icons
-
-<br/>
-<br/>
+<p><br />
+<br /></p>
+:ET

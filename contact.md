@@ -1,26 +1,25 @@
 ---
 layout: default
-is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+## Get in touch
 
-* Phone: [+91-123123](tel:+91-123123)
+Feel free to connect with me using any of the below. The fastest way to get my attention, however, is through email.
 
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+<p align="center">
+  <a href="mailto:mail@tejasvi.dev">
+    <img src="mail.png" width="40px" height="40px"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/pct">
+    <img src="linkedin.png" width="40px" height="40px"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/pct960">
+    <img src="github.png" width="40px" height="40px"/>
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/pct960">
+    <img src="twitter.png" width="40px" height="40px"/>
+  </a>
+</p>

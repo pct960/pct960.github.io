@@ -1,0 +1,105 @@
+I"�<h2 id="about-me">About Me</h2>
+
+<p><img class="profile-picture" src="photo.jpg" /></p>
+
+<p>Hello there!</p>
+
+<p>I’m Poorna. (see <a href="misc">this</a> if you’re curious about my name) I am a Senior Software Engineer at AI &amp; Robotics Technology Park (<a href="https://artpark.in">ARTPARK</a>) - a joint venture by the Indian Institute of Science and AiFoundry. Previously, I was a Technical Associate at the Robert Bosch Centre for Cyber-Physical Systems, Indian Institute of Science, Bangalore.</p>
+
+<h2 id="interests">Interests</h2>
+
+<p>I work primarily on backend systems, databases and DevOps. My research interests are in understanding how to build large systems with ease. Currently I am working on building a large-scale privacy preserving data exchange and analytics platform with folks from UIDAI and Microsoft Research.</p>
+
+<h2 id="professional-experience">Professional Experience</h2>
+
+<table>
+  <tbody>
+    <tr>
+      <th align="center">Period</th>
+      <th align="center">Designation</th>
+      <th align="center">Organisation</th>
+      <th align="center">Responsibilities</th>
+    </tr>
+    <tr>
+      <td align="center">November 2020 - Present</td>
+      <td align="center">Senior Software Engineer</td>
+      <td align="center">ARTPARK</td>
+      <td align="left">Part of the core team that is building and maintaining a large-scale data collection and analytics platform. Key responsibilities include end-to-end delivery of software products - development, testing, operations, deployment and monitoring. Also responsible for backend systems, infrastructure setup and streamlining version control system (git) workflows.</td>
+    </tr>
+    <tr>
+      <td align="center">June 2018 - October 2020</td>
+      <td align="center">Technical Associate</td>
+      <td align="center">Indian Institute of Science</td>
+      <td align="center">Worked extensively on backend systems. Key responsibilities included:
+	<ul>
+	<li>Development of high-performance IoT middlewares</li>
+	<li>Containerisation and automation of applications</li>
+	<li>Building extract-transform-load pipelines to ingest data from smart-city applications</li>
+	<li>Performance optimisation of APIs</li>
+	<li>Consulting on projects that required software setup for operations</li>
+	<li>Establishing formal version control system practices</li>
+	</ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- ## Interesting Projects
+
+* Aarogya Setu Anonymisation9: Developed an anonymisation framework to hide personally identifiable information from the Aarogya Setu self-assessment chat dataset. This framework, while preserving privacy, retained all the characteristics needed for predictive modelling of COVID-19 hotspots.
+
+* Indian Urban Data Exchange (IUDX)10: Was involved in the core team of developing a common data ex- change platform for smart cities in India. This project was funded by the Govt. of India. IUDX is deployed “in-production" in two Indian cities namely, Pune and Varanasi
+
+* Vermillion: A scalable and highly-available IoT middleware for smart cities, built for speed and respon- siveness. This middleware was the final and most mature implementation among the previous iterations of IoT middlewares that we had built. This is currently deployed as a part of the IUDX stack.
+
+* Corinthian13: Built a faster and more robust version of IDEAM using Kore, a fast and secure web platform written in C. This project also comprised of microservices deployed using Docker.
+
+* IoT Data Exchange and Analytics Middleware (IDEAM)14: This was an initial version of the smart city data exchange platform. This platform comprised various microservices which were developed using Undertow and deployed using Docker and Ansible.
+
+* Intrusion Detection and Prevention System for Smart-city Middlewares15: It was a security layer built for smart-city middlewares to prevent attacks by malicious users. It was capable of protecting against DoS attacks and some kinds of exploits by observing patterns from log files and using blockchain techniques
+
+-->
+<h2 id="some-achievements">Some achievements</h2>
+
+<ul>
+  <li>
+    <p>Invited for an online paid interview by researchers from the Software Analysis and Testing (SALT) lab of the Electrical and Computer Engineering Department, University of British Columbia, Vancouver to talk about bugs and failures in IoT systems.</p>
+  </li>
+  <li>
+    <p>Won a paid trip to RabbitMQ Summit 2019 in London - sponsored by <a href="https://cloudamqp.com">CloudAMQP</a> and the Indian Institute of Science. This was featured in the Cyber-Physical Systems website of IISc (<a href="https://cps.iisc.ac.in/rabbitmq">link</a>)</p>
+  </li>
+  <li>
+    <p>Secured a national rank of 567 among tens of thousands of participants in a competitive coding contest conducted by Tata Consultancy Services (TCS)</p>
+  </li>
+  <li>
+    <p>Graduated with a gold medal in my undergrad and won an “Outstanding Academic Achiever” award</p>
+  </li>
+</ul>
+
+<h2 id="conference-presentations">Conference Presentations</h2>
+
+<ol>
+  <li>N. Karanjkar, P. C. Tejasvi, and B. Amrutur. “A SimPy-based Simulation Testbed for Smart-city IoT Applications”. ACM/IEEE Conference on Internet of Things Design and Implementation. Montreal, Canada, 2019. (<a href="https://dl.acm.org/doi/abs/10.1145/3302505.3312591">acm</a>, <a href="https://aml.ece.iisc.ac.in/images/b/bb/Iotdi19posters-paper56.pdf">paper</a>, <a href="https://github.com/rbccps-iisc/atscale_middleware_testing">code</a>)</li>
+</ol>
+
+<h2 id="manuscripts-in-progress">Manuscripts in progress</h2>
+
+<ol>
+  <li>P. C. Tejasvi, V. Rajaraman, A. B. Puthuparambil, A. Pankaj, and B. Amrutur, “Vermillion: A High-Performance Scalable IoT Middleware for Smart Cities,” arXiv preprint arXiv:2003.08361, 2020 (<a href="https://arxiv.org/abs/2003.08361">arxiv</a>, <a href="https://github.com/datasetu/vermillion/releases/tag/v0.2.0">code</a>)</li>
+</ol>
+
+<p>Do take a look at my <a href="cv.pdf">CV</a> for additional details</p>
+
+<hr />
+
+<h3 id="credits">Credits</h3>
+
+<ul>
+  <li>Ankit Sultana for the <a href="https://github.com/ankitsultana/researcher">website template</a></li>
+  <li><a href="https://amanagarwal.io/">Aman Agarwal</a> for the contact template</li>
+  <li><a href="https://flaticon.com">Flaticon</a> for some icons</li>
+</ul>
+
+<p><br />
+<br /></p>
+:ET

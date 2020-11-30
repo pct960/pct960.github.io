@@ -1,13 +1,13 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Poorna Chandra Tejasvi
+url: "https://tejasvi.dev"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
-footer: yes
+footer: no
 footer_url: "https://github.com/ankitsultana"
 footer_text: "Page design by Ankit Sultana"
 
@@ -17,8 +17,10 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
+   link: "."
+ - name: "Blog"
+   link: "blog"
+ - name: "CV"
+   link: "cv.pdf"
  - name: "Contact"
    link: "contact"
