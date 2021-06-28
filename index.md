@@ -8,7 +8,7 @@ layout: default
 
 Hello there! 
 
-I'm Poorna. (see [this](misc) if you're curious about my name) I am a Senior Software Engineer at AI & Robotics Technology Park ([ARTPARK](https://artpark.in)) - a joint venture by the Indian Institute of Science and AiFoundry. Previously, I was a Technical Associate at the Robert Bosch Centre for Cyber-Physical Systems, Indian Institute of Science, Bangalore. 
+I'm Tejasvi. (see [this](misc) if something doesn't add up) I am a Senior Software Engineer at AI & Robotics Technology Park ([ARTPARK](https://artpark.in)) - a joint venture by the Indian Institute of Science and AiFoundry. Previously, I was a Technical Associate at the Robert Bosch Centre for Cyber-Physical Systems, Indian Institute of Science, Bangalore. 
 
 ## Interests
 
@@ -28,7 +28,15 @@ I work primarily on backend systems, databases and DevOps. My research interests
       <td align="center">November 2020 - Present</td>
       <td align="center">Senior Software Engineer</td>
       <td align="center">ARTPARK</td>
-      <td align="left">Part of the core team that is building and maintaining a large-scale data collection and analytics platform. Key responsibilities include end-to-end delivery of software products - development, testing, operations, deployment and monitoring. Also responsible for backend systems, infrastructure setup and streamlining version control system (git) workflows.</td>
+      <td align="left">In the core team that developed <a href="https://xraysetu.com">XRaySetu</a> - a free, WhatsApp based service that can identify Covid-19 and related maladies of lungs from chest X-Ray images. This was featured in <a href="https://www.ndtv.com/business/a-platform-for-early-covid-detection-over-whatsapp-know-how-it-works-2454475">NDTV</a>, <a href="https://www.cnbctv18.com/videos/startup/startup-street-elevation-capitals-investment-plans-covid-detection-using-xraysetu-9757181.htm">CNBC-TV18</a>, <a href="https://www.indiatoday.in/technology/news/story/government-launches-x-ray-setu-on-whatsapp-to-detect-covid-19-cases-in-areas-with-no-rt-pcr-tests-1810348-2021-06-03">India Today</a> and other major news networks. 
+      <br>
+      <br>
+      Part of the core team that is building and maintaining a large-scale data collection and analytics platform using confidential computing. Key responsibilities include: 
+	<ul>
+	    <li> End-to-end delivery of software products - development, testing, operations, deployment and monitoring. </li>
+	    <li> Building robust backend systems, setting up infrastructure and streamlining version control system (git) workflows. </li>
+	</ul>
+      </td>
     </tr>
     <tr>
       <td align="center">June 2018 - October 2020</td>

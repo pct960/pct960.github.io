@@ -4,4 +4,5 @@ layout: default
 
 ## About my name
 
-My full name is actually Poorna Chandra Tejasvi Girish Kumar Kashi. There's a story behind why it's so long but this is not the place for it. My family and very close friends know me as "Tejasvi", and the rest as "Poorna". For professional purposes, I've been using the latter and I prefer it that way.
+My earlier full name used to be "Poorna Chandra Tejasvi Girish Kumar Kashi". As it was inconveniently long for most purposes, I have legally shortened it to "Tejasvi Kashi". I now prefer "Tejasvi" as my first name. Those who know me as "Poorna" can continue addressing me so. Close friends and family anyway knew me as "Tejasvi" from the beginning.
+
