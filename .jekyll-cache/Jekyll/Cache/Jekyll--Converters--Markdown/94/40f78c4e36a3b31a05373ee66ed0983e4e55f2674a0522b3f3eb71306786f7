@@ -1,25 +1,21 @@
----
-layout: default
----
+I"� <h2 id="about-me">About Me</h2>
 
-## About Me
+<p><img class="profile-picture" src="new-photo.JPG" /></p>
 
-<img class="profile-picture" src="new-photo.JPG">
+<p>Hello there!</p>
 
-Hello there! 
+<p>I’m Tejasvi. (see <a href="misc">this</a> if something doesn’t add up) I am currently an MMath CS thesis student at the University of Waterloo advised by <a href="https://cs.uwaterloo.ca/~kmsalem/">Prof. Ken Salem</a>. Before this, I was a Senior Software Engineer at AI &amp; Robotics Technology Park (<a href="https://artpark.in">ARTPARK</a>) - a joint venture by the <a href="https://iisc.ac.in">Indian Institute of Science</a> and <a href="https://www.aifoundry.ai/">Aifoundry</a>. Previously, I was a Technical Associate at the <a href="https://cps.iisc.ac.in">Robert Bosch Centre for Cyber-Physical Systems</a>, Indian Institute of Science, Bangalore.</p>
 
-I'm Tejasvi. (see [this](misc) if something doesn't add up) I am currently an MMath CS thesis student at the University of Waterloo advised by [Prof. Ken Salem](https://cs.uwaterloo.ca/~kmsalem/). Before this, I was a Senior Software Engineer at AI & Robotics Technology Park ([ARTPARK](https://artpark.in)) - a joint venture by the [Indian Institute of Science](https://iisc.ac.in) and [Aifoundry](https://www.aifoundry.ai/). Previously, I was a Technical Associate at the [Robert Bosch Centre for Cyber-Physical Systems](https://cps.iisc.ac.in), Indian Institute of Science, Bangalore. 
+<h2 id="interests">Interests</h2>
 
-## Interests
+<p>Currently, I work on transaction durability in databases with Prof Salem. In my earlier role, I used to work on backend systems, databases and cloud automation.</p>
 
-Currently, I work on transaction durability in databases with Prof Salem. In my earlier role, I used to work on backend systems, databases and cloud automation. 
-
-Apart from professional/academic interests, I really enjoy intriguing short stories and western classical music (Beethoven, Bach, Mozart, Vivaldi and the like).
+<p>Apart from professional/academic interests, I really enjoy intriguing short stories and western classical music (Beethoven, Bach, Mozart, Vivaldi and the like).</p>
 
 <!--- My research interests are in understanding how to build large systems with ease. Currently I am working on building a large-scale privacy preserving data exchange and analytics platform with folks from UIDAI and Microsoft Research.
 -->
 
-## Professional Experience
+<h2 id="professional-experience">Professional Experience</h2>
 
 <table>
   <tbody>
@@ -30,18 +26,12 @@ Apart from professional/academic interests, I really enjoy intriguing short stor
       <th align="center">Responsibilities</th>
     </tr>
     <tr>
-      <td align="center">September 2021 - Present</td>
-      <td align="center">Graduate Teaching Assistant</td>
-      <td align="center">University of Waterloo</td>
-      <td align="center"> TA'ed "CS135 - Designing Functional Programs using Racket" in the fall 2021 term. Was responsible for marking assignments handed in by undergraduate students.</td>
-    </tr>
-    <tr>
       <td align="center">November 2020 - July 2021</td>
       <td align="center">Senior Software Engineer</td>
       <td align="center">ARTPARK</td>
       <td align="left">In the core team that developed <a href="https://xraysetu.com">XRaySetu</a> - a free, WhatsApp based service that can identify Covid-19 and related maladies of lungs from chest X-Ray images. This was featured in <a href="https://www.ndtv.com/business/a-platform-for-early-covid-detection-over-whatsapp-know-how-it-works-2454475">NDTV</a>, <a href="https://www.cnbctv18.com/videos/startup/startup-street-elevation-capitals-investment-plans-covid-detection-using-xraysetu-9757181.htm">CNBC-TV18</a>, <a href="https://www.indiatoday.in/technology/news/story/government-launches-x-ray-setu-on-whatsapp-to-detect-covid-19-cases-in-areas-with-no-rt-pcr-tests-1810348-2021-06-03">India Today</a> and other major news networks. 
-      <br>
-      <br>
+      <br />
+      <br />
       Part of the core team that was building and maintaining a large-scale data collection and analytics platform using confidential computing. Key responsibilities included: 
 	<ul>
 	    <li> End-to-end delivery of software products - development, testing, operations, deployment and monitoring. </li>
@@ -67,30 +57,29 @@ Apart from professional/academic interests, I really enjoy intriguing short stor
   </tbody>
 </table>
 
-## Educational background
+<h2 id="educational-background">Educational background</h2>
 
 <table>
     <tbody>
     <tr>
       <th align="center">Period</th>
       <th align="center">Degree</th>
-      <th align="center">Institution</th>
-      <th align="center">Country</th>
+      <th align="center">Organisation</th>
     </tr>
     <tr>
-	<td align="center"> September 2021 - Present</td>
-	<td align="center"> Master of Mathematics in Computer Science (MMath): thesis-based</td>
-	<td align="center"> David R. Cheriton School of Computer Science, University of Waterloo</td>
-	<td align="center"><img src="canada.png" style="height:50%;width:50%"/></td>
+	<th align="center"> September 2021 - Present</th>
+	<th align="center"> May 2014 - May 2018</th>
     </tr>
     <tr>
-	<td align="center"> May 2014 - May 2018</td>
-	<td align="center"> Bachelor of Technology (B.Tech) </td>
-	<td align="center"> School of Engineering and Technology, Christ University</td>
-	<td align="center"><img src="india.png" style="height:50%;width:50%"/></td>
+	<th align="center"> Master of Mathematics in Computer Science - thesis-based</th>
+	<th align="center"> Bachelor of Technology (B.Tech) </th>
     </tr>
-    </tbody>
-</table>
+    <tr>
+	<th align="center"> David R. Cheriton School of Computer Science, University of Waterloo</th>
+	<th align="center"> School of Engineering and Technology, Christ University</th>
+    </tr>
+
+
 
 
 <!-- ## Interesting Projects
@@ -131,7 +120,7 @@ Apart from professional/academic interests, I really enjoy intriguing short stor
 
 ---
 
-Take a look at my [linkedin](https://linkedin.com/in/pct) and [CV](cv.pdf) for additional information
+Do take a look at my [linkedin](https://linkedin.com/in/pct) and [CV](cv.pdf) for additional information
 
 ---
 
@@ -141,5 +130,7 @@ Take a look at my [linkedin](https://linkedin.com/in/pct) and [CV](cv.pdf) for a
 * [Aman Agarwal](https://amanagarwal.io/) for the contact template
 * [Flaticon](https://flaticon.com) for some icons
 
-<br/>
-<br/>
+<br />
+<br />
+</tbody></table>
+:ET

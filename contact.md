@@ -11,7 +11,7 @@ Feel free to connect with me using any of the below. The fastest way to get my a
     <img src="mail.png" width="40px" height="40px"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/pct">
+  <a href="https://ca.linkedin.com/in/pct">
     <img src="linkedin.png" width="40px" height="40px"/>
   </a>
   &nbsp;
@@ -19,7 +19,7 @@ Feel free to connect with me using any of the below. The fastest way to get my a
     <img src="github.png" width="40px" height="40px"/>
   </a>
   &nbsp;
-  <a href="https://twitter.com/pct960">
+  <a href="https://twitter.com/TejasviKashi">
     <img src="twitter.png" width="40px" height="40px"/>
   </a>
 </p>
