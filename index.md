@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="new-photo.JPG">
+<img class="profile-picture" src="photo.png">
 
 Hello there! 
 
@@ -14,7 +14,7 @@ I'm Tejasvi. (see [this](misc) if something doesn't add up) I am currently an MM
 
 Currently, I work on transaction durability in databases with Prof Salem. In my earlier role, I used to work on backend systems, databases and cloud automation. 
 
-Apart from professional/academic interests, I really enjoy intriguing short stories and western classical music (Beethoven, Bach, Mozart, Vivaldi and the like).
+Apart from professional/academic interests, I really enjoy intriguing short stories and western classical music (Beethoven, Bach, Mozart, Vivaldi and the like). I also play badminton and table tennis. I used to be a decent chess player, but not anymore :)
 
 <!--- My research interests are in understanding how to build large systems with ease. Currently I am working on building a large-scale privacy preserving data exchange and analytics platform with folks from UIDAI and Microsoft Research.
 -->
@@ -30,12 +30,6 @@ Apart from professional/academic interests, I really enjoy intriguing short stor
       <th align="center">Responsibilities</th>
     </tr>
     <tr>
-      <td align="center">September 2021 - Present</td>
-      <td align="center">Graduate Teaching Assistant</td>
-      <td align="center">University of Waterloo</td>
-      <td align="center"> TA'ed "CS135 - Designing Functional Programs using Racket" in the fall 2021 term. Was responsible for marking assignments handed in by undergraduate students.</td>
-    </tr>
-    <tr>
       <td align="center">November 2020 - July 2021</td>
       <td align="center">Senior Software Engineer</td>
       <td align="center">ARTPARK</td>
@@ -44,7 +38,9 @@ Apart from professional/academic interests, I really enjoy intriguing short stor
       <br>
       Part of the core team that was building and maintaining a large-scale data collection and analytics platform using confidential computing. Key responsibilities included: 
 	<ul>
+	    <br/>
 	    <li> End-to-end delivery of software products - development, testing, operations, deployment and monitoring. </li>
+	    <br/>
 	    <li> Building robust backend systems, setting up infrastructure and streamlining version control system (git) workflows. </li>
 	</ul>
       </td>
@@ -55,17 +51,34 @@ Apart from professional/academic interests, I really enjoy intriguing short stor
       <td align="center">Indian Institute of Science</td>
       <td align="center">Worked extensively on backend systems. Key responsibilities included:
 	<ul>
+	<br/>
 	<li>Development of high-performance IoT middlewares</li>
+	<br/>
 	<li>Containerisation and automation of applications</li>
+	<br/>
 	<li>Building extract-transform-load pipelines to ingest data from smart-city applications</li>
+	<br/>
 	<li>Performance optimisation of APIs</li>
+	<br/>
 	<li>Consulting on projects that required software setup for operations</li>
+	<br/>
 	<li>Establishing formal version control system practices</li>
 	</ul>
       </td>
     </tr>
   </tbody>
 </table>
+
+## Teaching Experience
+
+* Teaching Assistantships
+    - CS350: Operating Systems - Winter 2022 
+    - CS135: Designing Functional Programs with Racket - Fall 2021
+
+* Taught a module “Database Systems and Scaling Strategies for IoT middlewares" as a part of “Foundation Courses on Micro, Nano and Smart Systems" at the Indian Institute of Science
+
+* Held a three-day workshop on Android Application Development for high school students at a National Science Museum 
+
 
 ## Educational background
 
@@ -109,6 +122,8 @@ Apart from professional/academic interests, I really enjoy intriguing short stor
 
 -->
 ## Some achievements
+
+* Awarded the International Masters Award of Excellence scholarship at UWaterloo. 
 
 * Our team's work on [XRaySetu](https://xraysetu.com) was featured on the website of the Minitsry of Science and Technology, Government of India - [link](https://dst.gov.in/new-ai-driven-platform-will-facilitate-early-covid-interventions-over-whatsapp), and major news networks of the country.
 
