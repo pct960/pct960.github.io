@@ -8,7 +8,7 @@ layout: default
 
 Hello there! 
 
-I'm Tejasvi. (see [this](misc) if something doesn't add up) I am currently an MMath CS thesis student at the University of Waterloo advised by [Prof. Ken Salem](https://cs.uwaterloo.ca/~kmsalem/). Before this, I was a Senior Software Engineer at AI & Robotics Technology Park ([ARTPARK](https://artpark.in)) - a joint venture by the [Indian Institute of Science](https://iisc.ac.in) and [Aifoundry](https://www.aifoundry.ai/). Previously, I was a Technical Associate at the [Robert Bosch Centre for Cyber-Physical Systems](https://cps.iisc.ac.in), Indian Institute of Science, Bangalore. 
+I'm [Tejasvi (Tej)](misc) I am currently an MMath CS thesis student at the University of Waterloo advised by [Prof. Ken Salem](https://cs.uwaterloo.ca/~kmsalem/). Before this, I was a Senior Software Engineer at AI & Robotics Technology Park ([ARTPARK](https://artpark.in)) - a joint venture by the [Indian Institute of Science](https://iisc.ac.in) and [Aifoundry](https://www.aifoundry.ai/). Previously, I was a Technical Associate at the [Robert Bosch Centre for Cyber-Physical Systems](https://cps.iisc.ac.in), Indian Institute of Science, Bangalore. 
 
 ## Interests
 
