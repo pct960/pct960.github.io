@@ -12,9 +12,9 @@ I'm [Tejasvi (Tej)](misc) I am currently an MMath CS thesis student at the Unive
 
 ## Interests
 
-Currently, I work on transaction durability in databases with Prof Salem. In my earlier role, I used to work on backend systems, databases and cloud automation. 
+Currently, I work on transaction durability in databases with Prof Salem. In my earlier role, I used to work on backend systems, databases, security and cloud automation. 
 
-Apart from professional/academic interests, I really enjoy intriguing short stories and western classical music (Beethoven, Bach, Mozart, Vivaldi and the like). I also play badminton and table tennis. I used to be a decent chess player, but not anymore :)
+Apart from professional/academic interests, I really enjoy intriguing short stories and western classical music (Beethoven, Bach, Mozart, Vivaldi and the like). I also play badminton and table tennis.
 
 <!--- My research interests are in understanding how to build large systems with ease. Currently I am working on building a large-scale privacy preserving data exchange and analytics platform with folks from UIDAI and Microsoft Research.
 -->
